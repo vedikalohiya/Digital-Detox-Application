@@ -1,4 +1,4 @@
-# Digital Detox 📱🧘
+# Digital Detox and Mental Well-Being Application 📱🧘
 
 A Flutter mobile application to help users manage screen time and promote healthy digital habits.
 
